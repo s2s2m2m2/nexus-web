@@ -230,7 +230,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Email"
-    url = "mailto:admin@nexus-system.co.kr"
+    url = "mailto:sales@nexus-system.co.kr"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -316,11 +316,12 @@ pluralizelisttitles = false
 [permalinks]
     blog = "/blog/:year/:month/:day/:contentbasename/"
 
-# Enable or disable top bar with social icons
-#<p class="hidden-sm hidden-xs">Contact us on admin@nexus-system.co.kr.</p>
-#      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-#<a href="mailto:admin@nexus-system.co.kr" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-#           </p>
+ # Enable or disable top bar with social icons
+<p class="hidden-sm hidden-xs">Contact us on sales@nexus-system.co.kr.</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+<a href="mailto:sales@nexus-system.co.kr" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+           </p>
+           
 [params.topbar]
     enable = false
     text = """ """
