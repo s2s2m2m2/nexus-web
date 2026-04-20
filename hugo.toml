@@ -149,29 +149,35 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Image & Networks"
-    identifier = "section.ImageNet"
+    identifier = "section.VideoNet"
     url        = ""
     weight     = 1
     parent     = "menu.tech"
     post       = 1
 
 [[menu.main]]
-    name       = "ISP"
+    name       = "Video Transmission"
     url        = ""
     weight     = 1
-    parent     = "section.ImageNet"
+    parent     = "section.VideoNet"
 
+[[menu.main]]
+    name       = "Image Processing"
+    url        = ""
+    weight     = 2
+    parent     = "section.VideoNet"
+    
 [[menu.main]]
     name       = "Network Protocols"
     url        = ""
-    weight     = 2
-    parent     = "section.ImageNet"
+    weight     = 3
+    parent     = "section.VideoNet"
 
 [[menu.main]]
     name       = "PoC"
     url        = ""
-    weight     = 3
-    parent     = "section.ImageNet"
+    weight     = 4
+    parent     = "section.VideoNet"
 
 
 [[menu.main]]
