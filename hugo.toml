@@ -284,7 +284,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Nexus System Inc.</p>"
-    copyright = "Copyright (c) 2026 - 2027, Nexus System Inc.; all rights reserved."
+    copyright = "Copyright (c) 2026 - 2027, Nexus System Inc. all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
