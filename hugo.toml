@@ -1,5 +1,5 @@
 baseurl = "https://www.nexus-system.co.kr/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "Universal"
+title = "Nexus-system"
 theme = "hugo-universal"
 themesDir = "themes"
 languageCode = "en-us"
