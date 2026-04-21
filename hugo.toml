@@ -307,15 +307,14 @@ pluralizelisttitles = false
         <br>#324, 3F
         <br>Gunpo ACE W Valley
         <br>Gunpocheomdansaneop 2ro 7beongil8
-        <br>Gunpo-si
-        <br>Gyeonggi-do
-        <strong>Republic of Korea</strong>
+        <br>Gunpo-si, Gyeonggi-do
+        <br><strong>Republic of Korea</strong>
         <br>
         </p>
         <p class="text-lowercase">
-        <br>mailto:sales@nexus-system.co.kr
-      </p>
-      """
+        <br>e-mail:sales@nexus-system.co.kr
+      	</p>
+      	"""
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:contentbasename/"
