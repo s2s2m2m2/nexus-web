@@ -311,6 +311,8 @@ pluralizelisttitles = false
         <br>Gyeonggi-do
         <strong>Republic of Korea</strong>
         <br>
+        </p>
+        <p class="text-lowercase">
         <br>mailto:sales@nexus-system.co.kr
       </p>
       """
