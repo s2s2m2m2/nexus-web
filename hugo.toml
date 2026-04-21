@@ -318,14 +318,13 @@ pluralizelisttitles = false
 [permalinks]
     blog = "/blog/:year/:month/:day/:contentbasename/"
 
- # Enable or disable top bar with social icons
-          
+# Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
-    <p class="hidden-sm hidden-xs">Contact us on sales@nexus-system.co.kr.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-<a href="mailto:sales@nexus-system.co.kr" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-           </p>
+    enable = false
+#    <p class="hidden-sm hidden-xs">Contact us on sales@nexus-system.co.kr.</p>
+#      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+#<a href="mailto:sales@nexus-system.co.kr" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+#           </p>
     text = """ """
 
 # Enable and disable widgets for the right sidebar
